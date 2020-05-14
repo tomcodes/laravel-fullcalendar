@@ -7,13 +7,13 @@ This is a simple helper package to make generating [http://fullcalendar.io](http
 ## Installing
 Require the package with composer using the following command:
 
-    composer require maddhatter/laravel-fullcalendar
+    composer require progcode/laravel-fullcalendar
 
 Or add the following to your composer.json's require section and `composer update`
 
 ```json
 "require": {
-	"maddhatter/laravel-fullcalendar": "~1.0"
+	"progcode/laravel-fullcalendar": "~1.3.3"
 }
 ```
 
