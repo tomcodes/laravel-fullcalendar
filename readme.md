@@ -1,6 +1,6 @@
 # Laravel Full Calendar Helper
 
-[![Latest Stable Version](https://poser.pugx.org/maddhatter/laravel-fullcalendar/v/stable)](https://packagist.org/packages/maddhatter/laravel-fullcalendar) [![Total Downloads](https://poser.pugx.org/maddhatter/laravel-fullcalendar/downloads)](https://packagist.org/packages/maddhatter/laravel-fullcalendar) [![Latest Unstable Version](https://poser.pugx.org/maddhatter/laravel-fullcalendar/v/unstable)](https://packagist.org/packages/maddhatter/laravel-fullcalendar) [![License](https://poser.pugx.org/maddhatter/laravel-fullcalendar/license)](https://packagist.org/packages/maddhatter/laravel-fullcalendar)
+[![Latest Stable Version](https://poser.pugx.org/progcode/laravel-fullcalendar/v/stable)](https://packagist.org/packages/progcode/laravel-fullcalendar) [![Total Downloads](https://poser.pugx.org/progocode/laravel-fullcalendar/downloads)](https://packagist.org/packages/progcode/laravel-fullcalendar) [![Latest Unstable Version](https://poser.pugx.org/progcode/laravel-fullcalendar/v/unstable)](https://packagist.org/packages/progcode/laravel-fullcalendar) [![License](https://poser.pugx.org/progcode/laravel-fullcalendar/license)](https://packagist.org/packages/progcode/laravel-fullcalendar)
 
 This is a simple helper package to make generating [http://fullcalendar.io](http://fullcalendar.io) in Laravel apps easier.
 
