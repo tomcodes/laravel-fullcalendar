@@ -126,7 +126,9 @@ class Calendar
             return $this->id;
         }
 
-        $this->id = str_random(8);
+        $digits = 8;
+        $fakeId = rand(pow(10, $digits-1), pow(10, $digits)-1);
+        $this->id = $fakeId;
 
         return $this->id;
     }
