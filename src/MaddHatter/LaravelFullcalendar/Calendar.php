@@ -91,13 +91,14 @@ class Calendar
      *
      * @return \Illuminate\View\View
      */
-    public function script()
+    public function script($nonce = null)
     {
         $options = $this->getOptionsJson();
 
         return $this->view->make('fullcalendar::script', [
             'id' => $this->getId(),
             'options' => $options,
+            'nonce' => $nonce,
         ]);
     }
 
